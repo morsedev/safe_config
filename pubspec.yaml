@@ -6,7 +6,7 @@ homepage: http://stablekernel.com
 documentation:
 
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: ">=2.0.0-dev.55.0 <3.0.0"
 
 dependencies:
   yaml: '>=2.1.8 <3.0.0'
